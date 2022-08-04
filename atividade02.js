@@ -1,15 +1,5 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>JavaScript</title>
-  </head>
-  <body>
-     <script>
+<script>
      //Faça um Programa que peça um número e então mostre a mensagem "O número informado foi [número]"
      var n1 = prompt("Digite um numero: ");
      alert("O número informado foi: "+ n1);
-
-     </script>
-   <body>
-</html>    
-
+</script>
